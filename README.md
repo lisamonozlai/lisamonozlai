@@ -1,7 +1,7 @@
 # Hi, I'm Lisa 👋
 ### I help social impact organizations with their data.
 
-I work at the intersection of **project management, operations, and data analysis**, helping mission-driven teams improve systems and make sense of complex information. Professionally, I have:  
+I work at the intersection of data analysis, project management, and operations, helping mission-driven teams improve systems and make sense of complex information. Professionally, I have:  
 - Measured the impact of public programs  
 - Turned grant, operational, and statistical data into clear stories  
 - Built workflows that made data easier to access and use  
