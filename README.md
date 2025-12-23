@@ -1,9 +1,14 @@
 # Hi, I'm Lisa 👋
 ### I help social impact organizations with their data.
 
-I have 10 years of experience helping public and nonprofit teams distill complex information into clear insights that support evidence‑based decisions. My work has included improving KPI measurement, analyzing grant data, and creating workflows that make information easier to access and use. Lately, I’ve been focusing on applying advanced analytics with Python and SQL, using automation and AI tools to make data handling faster and easier.
+I work at the intersection of **project management, operations, and data analysis**, helping mission-driven teams improve systems and make sense of complex information. Professionally, I have:  
+- Measured the impact of public programs  
+- Turned grant, operational, and statistical data into clear stories  
+- Built workflows that made data easier to access and use  
 
-This GitHub page is my coding portfolio. Explore my repositories to see how I use code to work with public‑interest data.
+Lately, I’ve been expanding my technical toolkit by learning **Python and SQL** to streamline data processes and developing **ML and NLP** foundations to uncover deeper insights.
+
+This GitHub page is my coding portfolio. Check out my [projects](https://github.com/lisamonozlai?tab=repositories) to see my approach.
 
 ## Main Skills
 <p>
