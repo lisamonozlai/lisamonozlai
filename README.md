@@ -1,4 +1,4 @@
-# Hi, I'm Lisa 👋
+# Hi, I'm Lisa Monozlai 👋
 ### I help social impact organizations with their data.
 
 I work at the intersection of data analysis, project management, and operations, helping mission-driven teams improve systems and make sense of complex information. Professionally, I have:  
