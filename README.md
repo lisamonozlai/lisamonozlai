@@ -8,7 +8,7 @@ I work at the intersection of data analysis, project management, and operations,
 
 Lately, I’ve been expanding my technical toolkit by learning **Python and SQL** to streamline data processes and developing **ML and NLP** foundations to uncover deeper insights.
 
-This GitHub page is my coding portfolio. Check out my [projects](https://github.com/lisamonozlai?tab=repositories) to see my approach.
+This GitHub page is my coding portfolio. Check out my **[projects](https://github.com/lisamonozlai?tab=repositories)** to see my approach.
 
 ## Main Skills
 <p>
@@ -40,5 +40,8 @@ This GitHub page is my coding portfolio. Check out my [projects](https://github.
   </a>
   <a href="https://public.tableau.com/app/profile/lisa.monozlai/vizzes">
     <img src="https://img.shields.io/badge/Tableau Public-4A90E2?style=for-the-badge" />
+  </a>
+  <a href="https://medium.com/@lisa.monozlai/about">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
