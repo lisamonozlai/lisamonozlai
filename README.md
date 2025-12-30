@@ -1,14 +1,15 @@
 # Hi, I'm Lisa Monozlai 👋
-### I help social impact organizations with their data.
+### PMP-certified project manager working at the intersection of data, systems, and decision-making
 
-I work at the intersection of data analysis, project management, and operations, helping mission-driven teams improve systems and make sense of complex information. Professionally, I have:  
-- Measured the impact of government and nonprofit programs  
-- Turned grant, operational, and statistical data into clear stories  
-- Built workflows that made data easier to access and use  
+I help mission-driven organizations build practical, data-driven systems that support equitable, actionable decisions. My background is in project management and operations, and I use technical tools to design, test, and communicate data workflows.
 
-Lately, I’ve been expanding my technical toolkit by learning **Python and SQL** to streamline data processes and developing **ML and NLP** foundations to uncover deeper insights.
+I’m currently expanding my technical toolkit with **Python**, **SQL**, and foundations in **ML and NLP** to better understand how data systems are built and how insights move from analysis to action.
 
-This GitHub page is my coding portfolio. Check out my **[projects](https://github.com/lisamonozlai?tab=repositories)** to see my approach.
+The projects here are intentionally documented in **plain language**, with transparent reasoning and clear explanations. They’re designed to support data literacy, show how technical work connects to real-world decisions, and make data more accessible to non-technical collaborators.
+
+👉 Explore my **[coding projects](https://github.com/lisamonozlai?tab=repositories)**  
+👉 For full case studies and system-level work, **[visit my portfolio](https://lisamonozlai.github.io/)**
+
 
 ## Main Skills
 <p>
