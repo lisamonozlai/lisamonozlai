@@ -1,7 +1,7 @@
 # Hi, I'm Lisa Monozlai 👋
-### I'm a PMP-certified project manager working at the intersection of data, systems, and decision-making
+### I'm a PMP-certified program manager working at the intersection of data, systems, and decision-making
 
-I help mission-driven organizations build practical, data-driven systems that support equitable, actionable decisions. My background is in project management and operations, and I use technical tools to design, test, and communicate data workflows.
+I help mission-driven organizations build practical, data-driven systems that support equitable, actionable decisions. My background is in program/project management, and I use technical tools to design, test, and communicate data workflows.
 
 I’m currently expanding my technical toolkit with **Python**, **SQL**, and foundations in **ML and NLP** to better understand how data systems are built and how insights move from analysis to action.
 
