@@ -1,17 +1,15 @@
 # Hi, I'm Lisa Monozlai 👋
-### I'm a PMP-certified program manager working at the intersection of data, systems, and decision-making
+### I’m a PMP-certified program manager bridging data, strategy, and delivery.
 
-I help mission-driven organizations build practical, data-driven systems that support equitable, actionable decisions. My background is in program/project management, and I use technical tools to design, test, and communicate data workflows.
+I help organizations build data-driven systems that support actionable, equitable decisions. I’m currently expanding my technical toolkit with **Python**, **SQL**, and foundations in **ML and NLP** to better understand how data systems are built and how insights move from analysis to action.
 
-I’m currently expanding my technical toolkit with **Python**, **SQL**, and foundations in **ML and NLP** to better understand how data systems are built and how insights move from analysis to action.
-
-The projects here are intentionally documented in **plain language**, with transparent reasoning and clear explanations. They’re designed to support data literacy, show how technical work connects to real-world decisions, and make data more accessible to non-technical collaborators.
+The projects here are intentionally documented in **plain language**, with transparent reasoning and clear explanations. They’re designed to support data literacy, show how technical work connects to real-world decisions, and make data more accessible to non-technical audiences.
 
 👉 Explore my **[coding projects](https://github.com/lisamonozlai?tab=repositories)**  
 👉 For full case studies and system-level work, **[visit my portfolio](https://lisamonozlai.github.io/)**
 
 
-## Main Skills
+## Technical Skills
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -21,7 +19,6 @@ The projects here are intentionally documented in **plain language**, with trans
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Project%20Management-4A90E2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge" />
 </p>
 
