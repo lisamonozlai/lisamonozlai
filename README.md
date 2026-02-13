@@ -8,7 +8,7 @@ The projects here are intentionally documented in **plain language**, with trans
 You can find out more about my work here:  
 👉 Visit my **[website](https://lisamonozlai.github.io/)**  
 👉 Explore my **[coding projects](https://github.com/lisamonozlai?tab=repositories)**  
-👉 See my systems-level **[case studies](https://sites.google.com/view/lisamonozlai-portfolio)**  
+👉 See my systems-level **[case studies](https://lisamonozlai.github.io/designing-scalable-information-flows)**  
 👉 Read my **[articles](https://medium.com/@lisa.monozlai/a-practical-approach-to-data-and-program-delivery-9b8c1050b335)**
 
 ## Technical Skills
