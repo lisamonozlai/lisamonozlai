@@ -2,11 +2,9 @@
 
 I'm a program management and operations professional who builds data-driven systems that support actionable, equitable decisions. My work focuses on improving information flows, strengthening decision infrastructure, and helping teams move from insight to action.
 
-I’m currently strengthening my technical toolkit with **Python** and **SQL** to better design and support effective information pipelines.
-
 ## What You’ll Find Here
 
-My projects are documented in **plain language**, with transparent reasoning and clear explanations. They’re designed to:
+**Python** and **SQL** projects documented in **plain language**, with transparent reasoning and clear explanations, that are designed to:
 
 - support data literacy  
 - show how technical work connects to real-world decisions  
