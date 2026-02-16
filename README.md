@@ -6,12 +6,11 @@ I’m currently strengthening my technical toolkit with **Python** and **SQL** t
 
 ## What You’ll Find Here
 
-The projects in this GitHub space are intentionally documented in **plain language**, with transparent reasoning and clear explanations. They’re designed to:
+My projects are documented in **plain language**, with transparent reasoning and clear explanations. They’re designed to:
 
 - support data literacy  
 - show how technical work connects to real-world decisions  
 - make data more accessible to non-technical audiences  
-- demonstrate how program management and data strategy reinforce each other  
 
 ## Explore My Work
 
