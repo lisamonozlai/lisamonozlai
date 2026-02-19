@@ -2,7 +2,7 @@
 
 I'm a program management and operations professional who builds practical, data-driven decision systems. Most of my work centers on the social sector but is relevant to any organization looking to use data more effectively. 
 
-Here, you'll find portfolio projects showing how **Python** and **SQL** can be used to streamline workflows, get insights, and inform decision-making. 
+Here, you'll find portfolio projects that leverage technical tools to streamline workflows, get insights, and inform decision-making. 
 
 ---
 
