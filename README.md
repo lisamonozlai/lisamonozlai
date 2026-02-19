@@ -1,8 +1,8 @@
 # Lisa Monozlai — Data, Strategy & Delivery
 
-I'm a program management and operations professional who builds practical, data-driven decision systems. Most of my work centers on the social sector but is relevant to any organization looking to use data more effectively. 
+I’m a program management and operations professional who designs practical, data-driven systems that help organizations make better decisions. Most of my work focuses on the social sector but the approaches I use are applicable to any organization looking to leverage data effectively.
 
-Here, you'll find portfolio projects that leverage technical tools to streamline workflows, get insights, and inform decision-making. 
+Here, you’ll find portfolio projects that use technical tools to generate accurate insights, establish reliable workflows, and guide real-world decision-making.
 
 ---
 
