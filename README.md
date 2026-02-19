@@ -1,6 +1,6 @@
 # Lisa Monozlai — Data, Strategy & Delivery
 
-I'm a program management and operations professional who builds practical, data-driven systems to support equitable, actionable decisions. Most of my work centers on the social sector, but is relevant to any organization looking to use data more effectively.
+I'm a program management and operations professional who builds practical, data-driven systems for equitable, actionable decisions. Most of my work centers on the social sector, but is relevant to any organization looking to use data more effectively.
 
 Here, you'll find portfolio projects that:
 
@@ -41,7 +41,7 @@ Here, you'll find portfolio projects that:
 </p>
 
 
-## Learning
+### Learning
 
 <p>
   <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" />
