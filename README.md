@@ -1,21 +1,29 @@
 # Lisa Monozlai — Data, Strategy & Delivery
 
-I'm a program management and operations professional who builds data-driven systems that support actionable, equitable decisions. My work focuses on improving information flows, strengthening decision infrastructure, and helping teams move from insight to action.
+I'm a program management and operations professional who builds practical, data-driven systems to support equitable and actionable decisions. I focus on helping teams structure their data, clarify their metrics, and use analysis to guide day-to-day and strategic choices.
+
+---
 
 ## What You’ll Find Here
 
-**Python** and **SQL** projects documented in **plain language**, with transparent reasoning and clear explanations, that are designed to:
+Projects that: 
 
-- support data literacy  
-- show how technical work connects to real-world decisions  
-- make data more accessible to non-technical audiences  
+- Turn complex information into accessible, actionable insights
+- Use free, widely available tools to streamline workflows
+- Connect technical analysis directly to decisions
+
+Most of my work centers on the social sector, but the approaches are relevant to any organization looking to use data more effectively.
+
+---
 
 ## Explore My Work
 
-👉 Visit my **[website](https://lisamonozlai.github.io/)**  
-👉 Explore my **[coding projects](https://github.com/lisamonozlai?tab=repositories)**  
-👉 See my systems-level **[case studies](https://lisamonozlai.github.io/designing-scalable-information-flows)**  
-👉 Read my **[articles](https://medium.com/@lisa.monozlai/a-practical-approach-to-data-and-program-delivery-9b8c1050b335)**  
+👉 **[Coding projects](https://github.com/lisamonozlai?tab=repositories)**  
+👉 **[Website](https://lisamonozlai.github.io/)**  
+👉 **[Case studies](https://lisamonozlai.github.io/designing-scalable-information-flows)**  
+👉 **[Articles](https://medium.com/@lisa.monozlai/a-practical-approach-to-data-and-program-delivery-9b8c1050b335)**  
+
+---
 
 ## Technical Skills
 
@@ -30,6 +38,8 @@ I'm a program management and operations professional who builds data-driven syst
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge" />
 </p>
+
+---
 
 ## Learning
 
