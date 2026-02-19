@@ -6,11 +6,11 @@ Here, you’ll find portfolio projects using **Python**, **SQL**, and other tool
 
 ---
 
-### Coding Projects
+### Technical Projects
 
-👉 **[Data Analysis for Public Policy](https://github.com/lisamonozlai?tab=repositories)** (Tools: Python, Jupyter)
+👉 **[Data Analysis for Public Policy](https://github.com/lisamonozlai/python-for-public-policy)** (Tools: Python, Jupyter)
 
-### Workflow Projects
+### Systems & Workflows
 
 👉 **[Designing Scalable Information Flows](https://lisamonozlai.github.io/designing-scalable-information-flows)** (Tools: Python, Jupyter, Confluence, Jira)
 
@@ -19,7 +19,6 @@ Here, you’ll find portfolio projects using **Python**, **SQL**, and other tool
 👉 **[Website](https://lisamonozlai.github.io/)**  
 👉 **[LinkedIn](https://www.linkedin.com/in/lisamonozlai/)**  
 👉 **[Medium](https://medium.com/@lisa.monozlai/a-practical-approach-to-data-and-program-delivery-9b8c1050b335)**  
-
 
 ### Toolkit
 
