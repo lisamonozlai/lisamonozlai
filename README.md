@@ -1,29 +1,32 @@
 # Lisa Monozlai — Data, Strategy & Delivery
 
-I'm a program management and operations professional who builds practical, data-driven systems to support equitable and actionable decisions. I focus on helping teams structure their data, clarify their metrics, and use analysis to guide day-to-day and strategic choices.
+I'm a program management and operations professional who builds practical, data-driven systems to support equitable and actionable decisions. Most of my work centers on the social sector, but the approaches are relevant to any organization looking to use data more effectively.
 
+Here, you'll find portfolio projects that:
 
-## What You’ll Find Here
-
-Projects that: 
-
-- Turn complex information into accessible, actionable insights
 - Use free, widely available tools to streamline workflows
+- Turn complex information into clear, actionable insights
 - Connect technical analysis directly to decision-making
-
-Most of my work centers on the social sector, but the approaches are relevant to any organization looking to use data more effectively.
-
-
-## Explore My Work
-
-👉 **[Coding projects](https://github.com/lisamonozlai?tab=repositories)**  
-👉 **[Website](https://lisamonozlai.github.io/)**  
-👉 **[Case studies](https://lisamonozlai.github.io/designing-scalable-information-flows)**  
-👉 **[Articles](https://medium.com/@lisa.monozlai/a-practical-approach-to-data-and-program-delivery-9b8c1050b335)**  
 
 ---
 
-## Technical Skills
+### Coding Projects
+
+👉 **[Data Analysis for Public Policy](https://github.com/lisamonozlai?tab=repositories)** (Tools: Python, Jupyter)
+
+### Workflow Projects
+
+👉 **[Designing Scalable Information Flows](https://lisamonozlai.github.io/designing-scalable-information-flows)** (Tools: Python, Jupyter, Confluence, Jira)
+
+### Learn More
+
+👉 **[Website](https://lisamonozlai.github.io/)**  
+👉 **[LinkedIn](https://www.linkedin.com/in/lisamonozlai/)**  
+👉 **[Medium](https://medium.com/@lisa.monozlai/a-practical-approach-to-data-and-program-delivery-9b8c1050b335)**  
+
+---
+
+### Technical Skills
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
