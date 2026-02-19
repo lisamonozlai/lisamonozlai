@@ -1,6 +1,6 @@
 # Lisa Monozlai — Data, Strategy & Delivery
 
-I'm a program management and operations professional who builds practical, data-driven systems for equitable, actionable decisions. Most of my work centers on the social sector, but is relevant to any organization looking to use data more effectively.
+I'm a program management and operations professional who builds practical, data-driven decision systems. Most of my work centers on the social sector but is relevant to any organization looking to use data more effectively.
 
 Here, you'll find portfolio projects showing how **Python** and **SQL** can be used to streamline workflows, get insights, and improve decision-making. 
 
