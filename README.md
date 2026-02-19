@@ -20,9 +20,8 @@ Here, you'll find portfolio projects that leverage technical tools to streamline
 👉 **[LinkedIn](https://www.linkedin.com/in/lisamonozlai/)**  
 👉 **[Medium](https://medium.com/@lisa.monozlai/a-practical-approach-to-data-and-program-delivery-9b8c1050b335)**  
 
----
 
-### Technical Skills
+### Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
