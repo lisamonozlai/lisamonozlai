@@ -2,7 +2,6 @@
 
 I'm a program management and operations professional who builds practical, data-driven systems to support equitable and actionable decisions. I focus on helping teams structure their data, clarify their metrics, and use analysis to guide day-to-day and strategic choices.
 
----
 
 ## What You’ll Find Here
 
@@ -10,11 +9,10 @@ Projects that:
 
 - Turn complex information into accessible, actionable insights
 - Use free, widely available tools to streamline workflows
-- Connect technical analysis directly to decisions
+- Connect technical analysis directly to decision-making
 
 Most of my work centers on the social sector, but the approaches are relevant to any organization looking to use data more effectively.
 
----
 
 ## Explore My Work
 
@@ -39,7 +37,6 @@ Most of my work centers on the social sector, but the approaches are relevant to
   <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge" />
 </p>
 
----
 
 ## Learning
 
