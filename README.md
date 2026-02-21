@@ -13,7 +13,7 @@ Here, you’ll find portfolio projects using **Python**, **SQL**, and other tool
 
 ### Systems & Workflows
 
-- **[Building End-to-End Information Flows](https://lisamonozlai.github.io/designing-scalable-information-flows)** (Tools: Python, Jupyter, Confluence, Jira)
+- **[Designing End-to-End Information Flows](https://lisamonozlai.github.io/designing-scalable-information-flows)** (Tools: Python, Jupyter, Confluence, Jira)
 
 ### Learn More
 
