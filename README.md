@@ -9,6 +9,7 @@ Here, you’ll find portfolio projects using **Python**, **SQL**, and other tool
 ### Technical Projects
 
 👉 **[Analytics for Policy and Program Design](https://github.com/lisamonozlai/analytics-for-policy-and-program-design)** (Tools: Python, Jupyter)
+
 👉 **[Relational Database for Engagement Tracking](https://github.com/lisamonozlai/relational-database-for-engagement-tracking)** (Tools: Python, SQL, Streamlit, VS Code)
 
 ### Systems & Workflows
