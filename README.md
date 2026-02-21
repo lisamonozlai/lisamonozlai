@@ -8,17 +8,16 @@ Here, you’ll find portfolio projects using **Python**, **SQL**, and other tool
 
 ### Technical Projects
 
-👉 **[Data Analysis for Public Policy](https://github.com/lisamonozlai/python-for-public-policy)** (Tools: Python, Jupyter)
+👉 **[Analytics for Policy and Program Design](https://github.com/lisamonozlai/analytics-for-policy-and-program-design)** (Tools: Python, Jupyter)
+👉 **[Relational Database for Engagement Tracking](https://github.com/lisamonozlai/relational-database-for-engagement-tracking)** (Tools: Python, SQL, Streamlit, VS Code)
 
 ### Systems & Workflows
 
-👉 **[Designing Scalable Information Flows](https://lisamonozlai.github.io/designing-scalable-information-flows)** (Tools: Python, Jupyter, Confluence, Jira)
+👉 **[Building End-to-End Information Flows](https://lisamonozlai.github.io/designing-scalable-information-flows)** (Tools: Python, Jupyter, Confluence, Jira)
 
 ### Learn More
 
-👉 **[Website](https://lisamonozlai.github.io/)**  
-👉 **[LinkedIn](https://www.linkedin.com/in/lisamonozlai/)**  
-👉 **[Medium](https://medium.com/@lisa.monozlai/a-practical-approach-to-data-and-program-delivery-9b8c1050b335)**  
+**[Website](https://lisamonozlai.github.io/)** | **[LinkedIn](https://www.linkedin.com/in/lisamonozlai/)** | **[Medium](https://medium.com/@lisa.monozlai/a-practical-approach-to-data-and-program-delivery-9b8c1050b335)**  
 
 ### Toolkit
 
